@@ -9,7 +9,8 @@ public class Builder {
         System.out.println("Helo");
         //перейти на сайт http://tkles-efs000545.vm.esrt.cloud.sbrf.ru:8443/ui/index.html#/home
         //залогиниться под своей учёткой Sigma
-
+        //
+        System.out.println("Hello");
 
     }
 }
