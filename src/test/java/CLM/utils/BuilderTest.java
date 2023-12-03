@@ -2,7 +2,7 @@ package CLM.utils;
 
 import org.junit.jupiter.api.Test;
 
-public class Builder {
+public class BuilderTest {
 
     @Test
     void buildDEV() {
